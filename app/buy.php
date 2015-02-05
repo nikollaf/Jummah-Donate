@@ -1,10 +1,4 @@
 <?php # buy.php 
-// Created by Larry Ullman, www.larryullman.com, @LarryUllman
-// Posted as part of the series "Processing Payments with Stripe"
-// http://www.larryullman.com/series/processing-payments-with-stripe/
-// Last updated February 20, 2013
-// The class names are based upon Twitter Bootstrap (http://twitter.github.com/bootstrap/)
-
 // This page is used to make a purchase.
 
 // Every page needs the configuration file:
